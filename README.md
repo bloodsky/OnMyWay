@@ -29,15 +29,15 @@ D'Amico     4h/d | D'Amico     1h/d | D'Amico     2h/d | D'Amico     0h/d
 
 ---
 
+# Download
+
+APK download link (v1.4) : https://github.com/bloodsky/OnMyWay/releases
+
+---
+
 # Thanks to ..
 
 Andrea Vitaletti and DIAG. Discover a new world that will keep you hidden at university is the best.
 
 And to Mitch Tabian. He's knowledge sharing is fundamental for android programming skills.
-
----
-
-# Download
-
-APK download link (v1.4) : https://github.com/bloodsky/OnMyWay/releases
 
