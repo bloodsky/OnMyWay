@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+       xmlns:android="http://schemas.android.com/apk/res/android"
+       xmlns:app="http://schemas.android.com/apk/res-auto"
+       xmlns:tools="http://schemas.android.com/tools"
+       android:layout_width="match_parent"
+       android:layout_height="match_parent"
+       tools:context=".MainActivity">
+
+    <android.support.design.widget.AppBarLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/appbar"
+        android:theme="@style/AppTheme.AppBarOverlay">
+
+        <android.support.v7.widget.Toolbar
+            android:id="@+id/toolbar"
+            android:layout_width="match_parent"
+            android:layout_height="?attr/actionBarSize"
+            android:background="?attr/colorPrimary"
+            app:popupTheme="@style/AppTheme.PopupOverlay" />
+
+    </android.support.design.widget.AppBarLayout>
+
+
+    <android.support.v7.widget.RecyclerView
+        android:id="@+id/chatrooms_recycler_view"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@id/appbar">
+    </android.support.v7.widget.RecyclerView>
+
+    <!--<android.support.design.widget.FloatingActionButton
+        android:id="@+id/fab_create_chatroom"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginEnd="28dp"
+        android:layout_marginBottom="22dp"
+        android:elevation="6dp"
+        android:src="@drawable/ic_chat"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent" />
+     -->
+
+
+    <com.github.clans.fab.FloatingActionMenu
+        android:id="@+id/fab_menu"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentEnd="true"
+        android:layout_margin="16dp"
+        app:menu_colorNormal="@color/bello"
+        app:menu_colorPressed="@color/colorAccent"
+        app:menu_backgroundColor="@android:color/transparent"
+        app:menu_openDirection="up"
+        app:menu_fab_label=""
+        app:menu_labels_textColor="@color/colorBlack"
+        app:menu_labels_colorPressed="@android:color/transparent"
+        app:menu_labels_colorNormal="@android:color/transparent"
+        app:menu_showShadow="true">
+
+        <com.github.clans.fab.FloatingActionButton
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            app:fab_colorNormal="@android:color/transparent"
+            app:fab_colorPressed="@color/colorAccent"
+            app:fabSize="mini"
+            app:fab_label="Public Chat"
+            android:src="@drawable/ic_public_chat"
+            android:id="@+id/public_chat">
+        </com.github.clans.fab.FloatingActionButton>
+
+        <com.github.clans.fab.FloatingActionButton
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            app:fab_colorNormal="@android:color/transparent"
+            app:fab_colorPressed="@color/colorAccent"
+            app:fabSize="mini"
+            app:fab_label="Private Chat"
+            android:src="@drawable/ic_private_chat"
+            android:id="@+id/private_chat">
+        </com.github.clans.fab.FloatingActionButton>
+
+
+    </com.github.clans.fab.FloatingActionMenu>
+
+       <ProgressBar
+           android:layout_width="wrap_content"
+           android:layout_height="wrap_content"
+           android:id="@+id/progressBar"
+           android:gravity="center"
+           app:layout_constraintBottom_toBottomOf="parent"
+           app:layout_constraintLeft_toLeftOf="parent"
+           app:layout_constraintRight_toRightOf="parent"
+           app:layout_constraintTop_toTopOf="parent"
+           android:visibility="gone"/>
+
+</RelativeLayout>

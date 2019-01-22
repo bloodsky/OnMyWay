@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "481287886588",
+    "firebase_url": "https://onmyway-37eb2.firebaseio.com",
+    "project_id": "onmyway-37eb2",
+    "storage_bucket": "onmyway-37eb2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:481287886588:android:824c4b514a1a9f70",
+        "android_client_info": {
+          "package_name": "com.example.bloodsky.onmyway"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "481287886588-ji2b1532ngf8pa5gkmjh4rrdbv6l9fi9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.bloodsky.onmyway",
+            "certificate_hash": "52dec7e5b20f4f7b423a288330c78eb0d12865f1"
+          }
+        },
+        {
+          "client_id": "481287886588-b28mcql55strm4rjj1qusofc8lqtsa0v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnvMi0vaCbNAx9kUe7Xj7rIgMaeov42OA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "481287886588-b28mcql55strm4rjj1qusofc8lqtsa0v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
