@@ -1,6 +1,6 @@
 # OnMyWay
 
-![alt text](https://github.com/bloodsky/OnMyWay/blob/master/OnMyWay/app/src/main/res/drawable/read.jpg)
+![alt text](https://github.com/bloodsky/OnMyWay/blob/master/OnMyWay/app/src/main/res/drawable/read.png)
 
 Real-time user diary application for city bus and traffic. (Google Workshop DIAG 2018/2019)
 
