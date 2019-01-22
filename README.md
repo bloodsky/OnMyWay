@@ -8,3 +8,6 @@ Thanks to Andrea Vitaletti and DIAG. Discover a new world that will keep you hid
 
 Thanks to Mitch Tabian. He's knowledge sharing is fundamental for android programming skills.
 
+
+APK download link (v1.4) : https://github.com/bloodsky/OnMyWay/releases
+
