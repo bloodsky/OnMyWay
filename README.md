@@ -12,20 +12,20 @@
 
 Week 1 | Week 2 | Week 3 | Week 4
 ------------ | ------------- | ------------- | -------------
-Fanfano     0h/d | Fanfano     0h/d | Fanfano     2h/d | Fanfano     0h/d
-Pavia       0h/d | Pavia       0h/d | Pavia       2h/d | Pavia       0h/d
-Martelletti 0h/d | Martelletti 0h/d | Martelletti 2h/d | Martelletti 0h/d
-D'Amico     0h/d | D'Amico     0h/d | D'Amico     2h/d | D'Amico     0h/d
+Fanfano     0h/d | Fanfano     0h/d | Fanfano     0h/d | Fanfano     1h/d
+Pavia       0h/d | Pavia       0h/d | Pavia       1h/d | Pavia       1h/d
+Martelletti 0h/d | Martelletti 0h/d | Martelletti 0h/d | Martelletti 1h/d
+D'Amico     0h/d | D'Amico     0h/d | D'Amico     0h/d | D'Amico     1h/d
 
 
 **Jenuary**
 
 Week 1 | Week 2 | Week 3 | Week 4
 ------------ | ------------- | ------------- | -------------
-Fanfano     4h/d | Fanfano     1h/d | Fanfano     2h/d | Fanfano     0h/d
-Pavia       4h/d | Pavia       1h/d | Pavia       2h/d | Pavia       0h/d
-Martelletti 4h/d | Martelletti 1h/d | Martelletti 2h/d | Martelletti 0h/d
-D'Amico     4h/d | D'Amico     1h/d | D'Amico     2h/d | D'Amico     0h/d 
+Fanfano     2h/d | Fanfano     1h/d | Fanfano     1h/d | Fanfano     0h/d
+Pavia       5h/d | Pavia       6h/d | Pavia       5h/d | Pavia       0h/d
+Martelletti 3h/d | Martelletti 1h/d | Martelletti 2h/d | Martelletti 0h/d
+D'Amico     2h/d | D'Amico     1h/d | D'Amico     1h/d | D'Amico     0h/d 
 
 ---
 
