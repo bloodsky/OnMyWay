@@ -6,6 +6,41 @@
 
 ---
 
+# Splitting work
+
+> D'Amico
+
+- Server side
+
+  - Volley library understanding. Problems with async task and backthread empty structure.
+  
+  Problems are related to : basic knowledge of async in Android. 
+
+> Fanfano
+
+- Social side
+
+  - Collecting social engineering problems. 
+
+  Problems are related to : " ... "
+
+> Martelletti
+
+- GUI
+  
+  - Animations. Slide navigation menu, collapsing map view, floating action button.
+  
+  Problems are related to : " ... "
+
+> Pavia
+
+- Client side, DB 
+
+  - Organize documents and reference in DB by bus type. Response on "like chat" and "standard chat".  Linking structured message to maps object. 
+  
+  Problems are related to : no knowledge of maps API.
+
+---
 # Time spent on the project
 
 **December**
