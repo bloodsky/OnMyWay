@@ -46,7 +46,7 @@ Check'em all!
 
 - Social side
 
-  - Collecting social engineering problems. 
+  - Collecting social engineering problems. Following a bus instead of my favourite influencer?
 
   - Problems are related to : " ... "
 
