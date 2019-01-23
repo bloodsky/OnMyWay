@@ -8,13 +8,28 @@
 
 # Splitting work
 
+
+Everything is done by focusing on primary use case as you can see in this and the next topic (Time spent).
+Our research is done all on library, API and problems related to our main goal. (Where is my bus?)
+
+
+**Adapting dynamically ..
+
+was fundamental for us. We started with an idea too broad and based on the research conducted we managed to improve the shot
+Just look by yourself : 
+
+**Following the project plan
+
+
+
+
 > D'Amico
 
 - Server side
 
   - Volley library understanding. Problems with async task and backthread empty structure.
   
-  Problems are related to : basic knowledge of async in Android. 
+  - Problems are related to : basic knowledge of async in Android. 
 
 > Fanfano
 
@@ -22,7 +37,7 @@
 
   - Collecting social engineering problems. 
 
-  Problems are related to : " ... "
+  - Problems are related to : " ... "
 
 > Martelletti
 
@@ -30,7 +45,7 @@
   
   - Animations. Slide navigation menu, collapsing map view, floating action button.
   
-  Problems are related to : " ... "
+  - Problems are related to : " ... "
 
 > Pavia
 
@@ -38,7 +53,7 @@
 
   - Organize documents and reference in DB by bus type. Response on "like chat" and "standard chat".  Linking structured message to maps object. 
   
-  Problems are related to : no knowledge of maps API.
+  - Problems are related to : no knowledge of maps API.
 
 ---
 # Time spent on the project
