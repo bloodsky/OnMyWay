@@ -15,14 +15,14 @@ Our research is done all on library, API and problems related to our main goal. 
 
 **Adapting dynamically ..**
 
-was fundamental for us. We started with an idea too broad and based on the research conducted we managed to improve the shot
-Just look by yourself right here : https://github.com/bloodsky/OnMyWay/blob/master/OnMyWay/app/src/main/res/drawable/On%20my%20way%20team.pdf
+was fundamental for us. We started with an idea too broad and based on the research conducted we managed to improve the shot  
+Just look by yourself right here :   https://github.com/bloodsky/OnMyWay/blob/master/OnMyWay/app/src/main/res/drawable/On%20my%20way%20team.pdf
 
 
 **Following the project plan ..**
 
-wasn't really easy! with courage we have faced everything and now Marco is ready to know when he can get his bus!
-Check this out here : 
+wasn't really easy! with courage we have faced everything and now Marco is ready to know when he can get his bus!  
+Check this out here :  
 https://github.com/bloodsky/OnMyWay/wiki
 
 
