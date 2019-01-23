@@ -6,7 +6,7 @@
 
 ---
 
-# Splitting work
+# Concept
 
 
 Everything is done by focusing on primary use case as you can see in this and the next topic (Time spent).
@@ -21,14 +21,18 @@ Just look by yourself right here : https://github.com/bloodsky/OnMyWay/blob/mast
 
 **Following the project plan ..**
 
-wasn't really easy! with courage we have faced everything and know Marco is ready to know when he can get his bus!
+wasn't really easy! with courage we have faced everything and now Marco is ready to know when he can get his bus!
 Check this out here : 
-
+https://github.com/bloodsky/OnMyWay/wiki
 
 
 ![alt text](https://github.com/bloodsky/OnMyWay/blob/master/OnMyWay/app/src/main/res/drawable/screen8.png)
 
+Check'em all!
 
+---
+
+# Splitting work
 
 
 > D'Amico
@@ -64,6 +68,7 @@ Check this out here :
   - Problems are related to : no knowledge of maps API.
 
 ---
+
 # Time spent on the project
 
 **December**
