@@ -99,7 +99,7 @@ APK download link (v1.4) : https://github.com/bloodsky/OnMyWay/releases
 
 # Thanks to ..
 
-Andrea Vitaletti and DIAG. Discover a new world that will keep you hidden at university is the best.
+DIAG. Discover a new world that will keep you hidden at university is the best.
 
 And to Mitch Tabian. He's knowledge sharing is fundamental for android programming skills.
 
